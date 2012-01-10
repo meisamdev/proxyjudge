@@ -2,7 +2,7 @@
 
 
 /*
-** github.com/firebathero
+** github.com/lastkarrde
 */
 
 $out = array();
